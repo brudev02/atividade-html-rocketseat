@@ -1,0 +1,93 @@
+/* Configuração geral das imagens */
+img {
+    display: block;
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15px;
+    margin: 20px auto;
+}
+
+.imagem-brasil {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+}
+
+.imagem-cristo {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+}
+
+.imagem-lencois {
+    width: 500px;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+}
+
+.imagem-marco-zero {
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+}
+
+/* Fundo e texto da página */
+body {
+    background-color: #F4E3C1;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #087E8B;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Título principal do cabeçalho */
+header h1 {
+    color: white;
+}
+
+/* Conteúdo principal */
+section {
+    background-color: #FFFFFF;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+/* Subtítulos */
+h3 {
+    color: #087E8B;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+/* Rodapé */
+footer {
+    background-color: #087E8B;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+}
