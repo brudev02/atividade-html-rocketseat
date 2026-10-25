@@ -21,4 +21,4 @@ O projeto foi desenvolvido para praticar a estruturação de páginas HTML e a e
 ![Destinos turísticos do Brasil](screenshots/section-2.png.png)
 ![Destinos turísticos do Brasil](screenshots/section-3.png.png)
 
-![Página inicial da landing page](screenshots/pagina-inicial.png.png)
+![Página inicial da landing page](screenshots/rodape.png.png)
